@@ -9,7 +9,6 @@
 .header {
     display: flex;
     justify-content: center;
-    height: 80px;
     background-color: #4f7691;
 }
 
@@ -18,7 +17,8 @@
     justify-content: space-between;
     align-items: center;
     width: 1200px;
-    height: 100%;
+    height: 70px;
+    background-color: rgb(126, 150, 150);
 }
 
 .logo-container > h1 {
